@@ -1,0 +1,42 @@
+[
+  {
+    "id": "met-tote",
+    "slug": "met-tote",
+    "name": "MET Logo Tote Bag",
+    "price": 2800,
+    "currency": "USD",
+    "image": "https://images.unsplash.com/photo-1540998145333-e2eef1a9822e?q=80&w=1600&auto=format&fit=crop",
+    "description": "A durable cotton tote featuring a bold, museum-inspired typographic logomark.",
+    "category": "Bags"
+  },
+  {
+    "id": "met-poster",
+    "slug": "met-poster",
+    "name": "Classic Exhibit Poster",
+    "price": 2400,
+    "currency": "USD",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1600&auto=format&fit=crop",
+    "description": "Museum-grade poster of a celebrated exhibit piece printed on archival paper.",
+    "category": "Prints"
+  },
+  {
+    "id": "met-mug",
+    "slug": "met-mug",
+    "name": "Sculpture Sketch Mug",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://images.unsplash.com/photo-1524594227083-2b6404f00cde?q=80&w=1600&auto=format&fit=crop",
+    "description": "Ceramic mug with line art inspired by classical sculpture.",
+    "category": "Home"
+  },
+  {
+    "id": "met-tee",
+    "slug": "met-tee",
+    "name": "Gallery Grid T-Shirt",
+    "price": 3200,
+    "currency": "USD",
+    "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=1600&auto=format&fit=crop",
+    "description": "Super-soft tee featuring a grid of iconic gallery works.",
+    "category": "Apparel"
+  }
+]
